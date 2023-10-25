@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\bin\Debug\net7.0\ChangeNumber.exe
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\bin\Debug\net7.0\ChangeNumber.deps.json
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\bin\Debug\net7.0\ChangeNumber.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\bin\Debug\net7.0\ChangeNumber.dll
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\bin\Debug\net7.0\ChangeNumber.pdb
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ChangeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ChangeNumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ChangeNumber.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ChangeNumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ChangeNumber.dll
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\refint\ChangeNumber.dll
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ChangeNumber.pdb
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ChangeNumber.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ChangeNumber\ChangeNumber\obj\Debug\net7.0\ref\ChangeNumber.dll
